@@ -5,6 +5,8 @@ This is a repository for a Full Stack Airbnb Clone with Next.js 14 App Router: R
 
 All the credits go to Antonio Erdeljac. I just followed the following [VIDEO TUTORIAL](https://youtu.be/c_-b_isI4vg) to get started with React. I just made minimal adjustments to migrate the original project from Next 13 to Next 14.
 
+The postgre branch contains the Prisma configuration for PostgreSQL.
+
 Features:
 
 - Tailwind design
